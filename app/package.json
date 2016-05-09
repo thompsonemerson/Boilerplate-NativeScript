@@ -1,0 +1,22 @@
+{
+  "name":"boilerplate-nativescript",
+  "main":"app.js",
+  "version":"1.0.0",
+  "author":{
+    "name":"Emerson Thompson",
+    "email":"thompson.emerson@gmail.com"
+  },
+  "description":"Simple Boilerplate NativeScript",
+  "license":"http://thompsonemerson.mit-license.org",
+  "keywords":[
+    "boilerplate",
+    "nativescript",
+    "template",
+    "mobile",
+    "simple",
+    "getstarted"
+  ],
+  "repository":{
+    "type":"git",
+    "url":"git://github.com/thompsonemerson/Boilerplate-NativeScript.git"}
+  }

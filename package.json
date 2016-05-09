@@ -1,0 +1,22 @@
+{
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <http://thompsonemerson.mit-license.org>",
+	"readme": "NativeScript Application",
+	"repository": "<https://github.com/thompsonemerson/Boilerplate-NativeScript>",
+	"nativescript": {
+		"id": "org.nativescript.boilerplateNativescript",
+		"tns-android": {
+			"version": "2.0.0"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "2.0.0"
+	},
+	"devDependencies": {
+		"babel-traverse": "6.8.0",
+		"babel-types": "6.8.1",
+		"babylon": "6.8.0",
+		"filewalker": "0.1.2",
+		"lazy": "1.0.11"
+	}
+}

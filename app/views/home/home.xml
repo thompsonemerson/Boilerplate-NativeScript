@@ -1,0 +1,10 @@
+<Page loaded="onPageLoaded">
+  <Page.actionBar>
+    <ActionBar title="Boilerplate {N}"/>
+  </Page.actionBar>
+  
+  <StackLayout orientation="vertical">
+    <Label cssClass="Label1" id="Label1" text="This is Label!" />
+    <Button cssClass="buttonTap" text="Tap here!" tap="buttonTap" />
+  </StackLayout>
+</Page>
