@@ -9,7 +9,7 @@ Excellent for beginners, it is a project very simple and have a nice structure.
 - Enter in project path
 - Run `$ tns install`
 - Run iOS emulator `$ tns run ios --emulator`
-- Run Android emulator `$ tns run ios --emulator`
+- Run Android emulator `$ tns run android --emulator`
 - Be happy!
 
 
